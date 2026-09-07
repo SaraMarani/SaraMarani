@@ -138,7 +138,7 @@ Here are some ideas to get you started:
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/SaraMarani">
-          <img align="center" src="https://github-repository-contribution-stat-green.vercel.app/api?username=SaraMarani&limit=2&theme=slateorange&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=SaraMarani&limit=5&theme=calm&combine_all_yearly_contributions=true" alt="Top Repo" />
         </a>
       </p>
     </td>
