@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 <!--Languages and Tools Section-->       
 <h2 align="center">🎯 Tᴇᴄʜ sᴛᴀᴄᴋ 🎯</h2> 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django">
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server">
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
@@ -56,9 +56,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
 </p>
 <table style="border: none;">
-  <tr style="border: none;">
-
-<td width="45%" align="center" valign="middle" style="border: none;">
+<tr style="border: none;">
+<td width="50%" align="center" valign="middle" style="border: none;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
     <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
@@ -67,7 +66,7 @@ Here are some ideas to get you started:
          width="100%">
   </picture>
 </td>
-<td width="55%" valign="middle" style="border: none;">
+<td width="50%" valign="middle" style="border: none;">
   <h3>Current Learning</h3>
   <p>Deepening my knowledge in Machine Learning and AI.</p>
   <p>Exploring advanced Django and state management techniques.</p>
@@ -113,7 +112,7 @@ Here are some ideas to get you started:
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/SaraMarani">
-          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=SaraMarani&count_private=true&show_icons=true&theme=slateorange&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats.shion.dev/api?username=SaraMarani&theme=slateorange&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
         </a>
       </p>
     </td>
@@ -121,7 +120,7 @@ Here are some ideas to get you started:
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/SaraMarani">
-          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=SaraMarani&theme=slateorange&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+          <img align="center" src="https://streak-stats.demolab.com/?user=SaraMarani&theme=slateorange&hide_border=false" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -131,7 +130,7 @@ Here are some ideas to get you started:
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/SaraMarani/storyblok-mcp-server">
-          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=SaraMarani&repo=storyblok-mcp-server&theme=slateorange&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+          <img align="center" width="470" src="https://github-readme-stats.shion.dev/api/top-langs/?username=SaraMarani&theme=slateorange&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Awesome-Dev-Portfolios" />
         </a>
       </p>
     </td>
