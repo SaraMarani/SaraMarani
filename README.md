@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **SaraMarani/SaraMarani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,9 +39,6 @@ Here are some ideas to get you started:
 <!--End Intro-->
 
 <!--Profile Count Badge-->
-
-
----
 <br />
 <br />
 
@@ -58,22 +55,28 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
 </p>
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-        <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-        <img src="./Skills_Animation_White.gif" alt="Skills Animation" width="100%">
-      </picture>
-    </td>
-    <td width="50%" align="left">
-      <h3>Current Learning</h3>
-      <p>Deepening my knowledge in Machine Learning and AI.</p>
-      <p>Exploring advanced Django and state management techniques.</p>
-    </td>
+<table style="border: none;">
+  <tr style="border: none;">
+
+<td width="45%" align="center" valign="middle" style="border: none;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+    <img src="./Skills_Animation_White.gif"
+         alt="Skills Animation"
+         width="100%">
+  </picture>
+</td>
+<td width="55%" valign="middle" style="border: none;">
+  <h3>Current Learning</h3>
+  <p>Deepening my knowledge in Machine Learning and AI.</p>
+  <p>Exploring advanced Django and state management techniques.</p>
+</td>
+
+
   </tr>
 </table>
+
 
 <br />
 <br />
