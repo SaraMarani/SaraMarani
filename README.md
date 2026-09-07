@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <br /> 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="40%" src="./side-right.png">
+  <img align="right" width="40%" src="./side-right-Photoroom.png">
 </div>
 <!--Start Intro-->               
 
